@@ -9,3 +9,4 @@ const encontrado = encontrar(clientes, "nome", "Kirby");
 const encontrado2 = encontrar(clientes, "telefone", "1918820860");
 
 console.log(encontrado);
+
